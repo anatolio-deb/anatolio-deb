@@ -1,5 +1,3 @@
-# GitHub profile readme
-
 # About me
 
 I'm Python/Django developer with a little experience in Vue.js interested in building modern and scalable web applications.
